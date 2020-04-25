@@ -2,7 +2,7 @@
  Udacity Deep Reinforcement Learning Nano-degree Project 3
 
 ## Project Description
-For this project, we will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) environment. See cartoon below to show the Unity ML-Agents Reacher Environment.
+For this project, we will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) environment. See cartoon below to show the Unity ML-Agents Tennis Environment.
 
 ![alt text](https://github.com/Unity-Technologies/ml-agents/raw/master/docs/images/tennis.png)
 
