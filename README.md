@@ -4,7 +4,7 @@
 ## Project Description
 For this project, we will work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) environment. See cartoon below to show the Unity ML-Agents Reacher Environment.
 
-![alt text](https://video.udacity-data.com/topher/2018/May/5af7955a_tennis/tennis.png)
+![alt text](https://github.com/Unity-Technologies/ml-agents/raw/master/docs/images/tennis.png)
 
 In this environment, two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
 
